@@ -2,7 +2,7 @@
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Fornt-end eğitiminde oluşturduğumuz ilk repo. içinde bir adet README dosyası bir adet index.html dosyası barındırıyor.
 
 
-![](c:/Users/temma/Desktop/kodluyoruz.PNG)
+![resim](c:/Users/temma/Desktop/kodluyoruz.PNG)
 
 
     git clone https://github.com/temma2/kodluyoruzilkrepo.git
