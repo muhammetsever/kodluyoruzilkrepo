@@ -5,4 +5,4 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Fornt-end eğitiminde oluştur
 ![](c:/Users/temma/Desktop/kodluyoruz.PNG)
 
 
-    git clone https://github.com/temma2/kodluyoruzilkrepo.git
+    git clone https://github.com/muhammetsever/kodluyoruzilkrepo.git
